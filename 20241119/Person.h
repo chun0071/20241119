@@ -31,6 +31,6 @@ public:
 	void setGender(const string& gender);
 	void setBirthDate(const string& birthDate);
 
-	void display();
+	void display() const;
 };
 
